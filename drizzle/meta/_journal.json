@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1785720415682,
+      "tag": "0000_magical_sandman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1785838717987,
+      "tag": "0001_organic_banshee",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1785840816478,
+      "tag": "0002_cold_william_stryker",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1786313349190,
+      "tag": "0003_thankful_vindicator",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1790184079403,
+      "tag": "0004_chubby_warstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1790519159647,
+      "tag": "0005_thin_puck",
+      "breakpoints": true
+    }
+  ]
+}
